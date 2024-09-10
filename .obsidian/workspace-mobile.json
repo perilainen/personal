@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "78c9af56ada37851",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d0463a87f7ac504",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1337b2d5fb1337b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uppstart ngpk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b766d6f8c473d18",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6e1edd06fc76e048",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "23cc56df01ef0172",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "624a52dab9688b01",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8ae6651485eaef44",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "375554686603ea03",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "97f3fd957b7f157e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Uppstart ngpk.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1fbc792b854ed627",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Uppstart ngpk.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "69bc8b96413d0a79",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Uppstart ngpk.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1337b2d5fb1337b2",
+  "lastOpenFiles": [
+    "test.md",
+    "Uppstart ngpk.md",
+    "2024-09-10.md",
+    "1725953431-QKFT.md"
+  ]
+}
